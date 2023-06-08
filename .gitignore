@@ -1,0 +1,4 @@
+node_modules
+aradsi.pem
+.env
+.prod.env
